@@ -1,0 +1,2 @@
+plack-phpmyadmin
+================
