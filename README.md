@@ -1,6 +1,8 @@
 plack-phpmyadmin
 ================
 
+PlackでphpMyAdminを動かすスクリプトです。
+
 ## PHPをインストール
 
 PHPをインストールして下さい。
